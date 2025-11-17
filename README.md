@@ -107,4 +107,4 @@ https://github.com/username/AbsenKu
 
 📜 Lisensi
 
-Kode ini bebas digunakan, tidak ada lisensi (assis gpt jg banyak)
+Kode ini bebas digunakan, tidak ada lisensi
