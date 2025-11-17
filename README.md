@@ -32,13 +32,20 @@ Jika diaktifkan melalui PHP + MySQL, semua data absensi dapat disimpan dan diamb
 📂 Struktur Folder
 
 AbsenKu/
+
 │── index.html          # Halaman absensi utama
+
 │── rekap.html          # Halaman rekap absensi
+
 │── style.css           # Styling utama aplikasi
+
 │── script.js           # Logika sidebar & interaksi
+
 │── /assets             # File gambar/icon
+
 │── /php
 │     └── koneksi.php   # Koneksi database (opsional)
+
 │── README.md
 
 ⚙️ Cara Instalasi (Localhost/XAMPP)
