@@ -4,9 +4,10 @@ AbsenKu adalah aplikasi absensi berbasis web yang sederhana, cepat, dan mudah di
 Dibuat dengan desain minimalis dan navigasi sidebar yang responsif
 
 📌 Fitur Utama
+
 ✔ Absensi Harian
 
-Form absensi untuk mengisi kehadiran (Hadir / Izin / Sakit / Alfa).
+Form absensi untuk mengisi kehadiran dan tracking keterlambatan
 
 ✔ Rekap Absensi
 
