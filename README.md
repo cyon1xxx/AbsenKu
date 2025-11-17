@@ -3,6 +3,14 @@
 AbsenKu adalah aplikasi absensi berbasis web yang sederhana, cepat, dan mudah digunakan untuk mencatat kehadiran siswa/pegawai dan menampilkan rekap absensi pada halaman terpisah.
 Dibuat dengan desain minimalis dan navigasi sidebar yang responsif
 
+Dibuat oleh:
+1. Adyaraka Geysar F.A (22)
+2. Duta Alam A.I (11)
+3. Fauzan Khairul A (17)
+4. Fathan Abdillah (16)
+5. Muhammad Izzam T (28)
+6. Sakti Ageng P (34)
+
 📌 Fitur Utama
 
 ✔ Absensi Harian
